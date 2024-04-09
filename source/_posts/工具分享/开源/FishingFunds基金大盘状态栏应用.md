@@ -7,7 +7,7 @@ tags:
   - 开源
 ---
 
-![主界面](/images/FishingFunds.png)
+<img src="/images/FishingFunds.png" alt="主界面" width="100%">
 
 ## 描述
 

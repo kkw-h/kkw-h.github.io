@@ -7,7 +7,7 @@ tags:
   - 实用工具
 ---
 
-![alt 使用](/images/Dive.gif)
+<img src="/images/Dive.gif" alt="使用" width="100%" />
 
 ## 描述
 
