@@ -18,7 +18,7 @@ tags:
 
 ### 新数据存储位置
 
-`/Users/kkw/Library/Containers/com.navicat.NavicatPremium/Data/Library/Application Support/PremiumSoft CyberTech/Navicat CC`
+`~/Library/Containers/com.navicat.NavicatPremium/Data/Library/Application Support/PremiumSoft CyberTech/Navicat CC`
 
 #### 新数据位置查看方法
 
